@@ -1,7 +1,7 @@
 <h1> Hello World! 🧡 </h1>
 
 <a href="https://br.freepik.com/vetores/tecnologia">
-         <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="400px"           align="right" alt="Computador Place Holder">
+         <img src="https://raw.githubusercontent.com/VgsStudio/VgsStudio/main/Pc.png" min-width="360px" max-width="360px" width="400px"           align="right" alt="Computador VgsStudio">
 </a>
 
 <p align="left"> 
@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  🔥 Habilidades: <strong> Python, HTML, CSS </strong>
+ 🍂 Habilidades: <strong> Python, HTML, CSS </strong>
 </p>
 
 <p align="left">
@@ -17,11 +17,11 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode, Pycharm, Jupyter Notebook, Trello, GitHub, Git Bash</strong>
+ 🏆 Ferramentas: <strong>VSCode, Pycharm, Jupyter Notebook, Trello, GitHub, Git Bash</strong>
 </p>
 
 <p align="left">
-  💌 Sou extremamente simpático, pode me chamar tanto para trabalhos como para uma conversa: ⤵️
+  🌋 Sou extremamente simpático, pode me chamar tanto para trabalhos como para uma conversa: ⤵️
 </p>
 
 <p align="left">
@@ -32,9 +32,12 @@
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-soller" /></a>
 </p> 
 <hr>
-<h2> 👾 Minha conta GitHub: <br> </h2>
-  <img align=center src="https://github-readme-stats.vercel.app/api?username=VgsStudio&show_icons=true&theme=radical">
+<h2> 🔥 Minha conta GitHub: <br> </h2>
+  <img align=center src="https://github-readme-stats.vercel.app/api?username=VgsStudio&show_icons=true&theme=great-gatsby">
 
+         
+  
+         
 <!--
 **VgsStudio/VgsStudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
