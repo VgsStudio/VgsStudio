@@ -5,7 +5,7 @@
 </a>
 
 <p align="left"> 
-  Meu nome é Vitor Soller, estudante de <strong> Engenharia da Computação </strong> no <strong> Instituto Mauá de Tecnologia<strong>. Gosto de conhecer um pouco de tudo, comecei recentemente a estudar <strong> Data Science e Machine Learning</strong> e logo desejo ir atrás de <strong> FrontEnd. </strong>
+  Meu nome é Vitor Soller, estudante de <strong> Engenharia da Computação </strong> no <strong> Instituto Mauá de Tecnologia<strong>. Gosto de conhecer um pouco de tudo, comecei recentemente a estudar <strong> Data Science e Machine Learning</strong>. Meu próximo passo é me aventurar em  <strong> FrontEnd. </strong>
 </p>
 
 <p align="left">
