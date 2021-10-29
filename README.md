@@ -17,7 +17,7 @@
 </p>
 
 <p align="left">
- 🏆 Ferramentas: <strong>VSCode, Pycharm, Jupyter Notebook, Trello, GitHub, Git Bash</strong>
+ 🏆 Ferramentas: <strong>VSCode, Pycharm, Jupyter Notebook, Trello, GitHub, Git Bash, Figma</strong>
 </p>
 
 <p align="left">
