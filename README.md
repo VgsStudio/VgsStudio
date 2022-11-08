@@ -5,7 +5,7 @@
 </a>
 
 <p align="justify"> 
-  Meu nome é Vitor Soller, estudante de <strong> Engenharia da Computação </strong> no <strong> Instituto Mauá de Tecnologia<strong>. Gosto de conhecer um pouco de tudo, estudei um Data Science no meio de 2021 e, no começo de 2022, juntamente com um grupo acadêmico que eu faço parte na faculdade, aprendi <strong>ReactJS</strong>  e fiz alguns projetos. Já no meio de 2022, aprendi <strong>Dart e Flutter</strong> para fazer um projeto para um Hackathon.
+  Meu nome é Vitor Soller, estudante de <strong> Engenharia da Computação </strong> no <strong> Instituto Mauá de Tecnologia<strong>. Gosto de conhecer um pouco de tudo, estudei um Data Science no meio de 2021 e, no começo de 2022, juntamente com um grupo acadêmico que eu faço parte na faculdade, aprendi <strong>ReactJS</strong>  e fiz alguns projetos. Já no meio de 2022, aprendi <strong>Dart e Flutter</strong> para fazer um projeto para um <a href="https://github.com/VgsStudio/CaronApp_front" target="_blank">Hackathon</a> da entidade que eu faço parte na faculdade.
 </p>
 
 <p align="left">
