@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
- 🍂 Habilidades: <strong> Python, HTML, CSS, ReactJS, Dart, Flutter  </strong>
+ 🍂 Habilidades: <strong> Python, HTML, CSS, ReactJS, Dart, Flutter, AWS  </strong>
 </p>
 
 <p align="left">
