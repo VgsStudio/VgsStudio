@@ -5,11 +5,11 @@
 </a>
 
 <p align="justify"> 
-  Meu nome é Vitor Soller, estudante de <strong> Engenharia da Computação </strong> no <strong> Instituto Mauá de Tecnologia</strong>. Gosto de conhecer um pouco de tudo, estudei Data Science no meio de 2021 e, no começo de 2022, juntamente com um grupo acadêmico que eu faço parte na faculdade, aprendi <strong>ReactJS</strong>  e fiz alguns projetos. Já no meio de 2022, aprendi <strong>Dart e Flutter</strong> para fazer um projeto para um <a href="https://github.com/VgsStudio/CaronApp_front" target="_blank">Hackathon</a> do mesmo grupo. No fim de 2022, comecei me aprofundar mais em backend com <strong>Python</strong> e também computação em nuvem com <strong>AWS</strong>.
+  Meu nome é Vitor Soller, estudante de <strong> Engenharia da Computação </strong> no <strong> Instituto Mauá de Tecnologia</strong>. Gosto de conhecer um pouco de tudo, estudei Data Science no meio de 2021 e, no começo de 2022, juntamente com um grupo acadêmico que eu faço parte na faculdade, aprendi <strong>ReactJS</strong>  e fiz alguns projetos. Já no meio de 2022, aprendi <strong>Dart e Flutter</strong> para fazer um projeto para um <a href="https://github.com/VgsStudio/CaronApp_front" target="_blank">Hackathon</a> do mesmo grupo. No fim de 2022, comecei me aprofundar mais em backend com <strong>Python</strong> e também computação em nuvem com <strong>AWS</strong>. Em 2023 me aventurei ainda mais em infraestrutura Cloud, estudando juntamente com princípios de <strong>Devops</strong> além de sistemas de <strong>CI/CD</strong> como <strong>Github Actions</strong> .
 </p>
 
 <p align="left">
- 🍂 Habilidades: <strong> Python, HTML, CSS, ReactJS, Dart, Flutter, AWS  </strong>
+ 🍂 Habilidades: <strong> Python, HTML, AWS, CSS, ReactJS, Dart, Flutter  </strong>
 </p>
 
 <p align="left">
