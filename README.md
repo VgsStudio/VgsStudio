@@ -9,6 +9,14 @@
 </p>
 
 <p align="left">
+ 🏆 Certificações:
+         <ul style="list-style-type: circle">
+                  <li>AWS Cloud Practioner (2024) ☁</li>
+                  <li>AWS Solutions Architect – Associate (Carregando... 🔨🛠)</li>
+         </ul>
+</p>
+
+<p align="left">
  🍂 Habilidades: <strong> Python, HTML, AWS, CSS, ReactJS, Dart, Flutter  </strong>
 </p>
 
