@@ -1,35 +1,52 @@
 <h1> Hello World! 🧡 </h1>
 
 <a href="https://br.freepik.com/vetores/tecnologia">
-         <img src="https://raw.githubusercontent.com/VgsStudio/VgsStudio/main/Pc.png" min-width="360px" max-width="360px" width="400px"           align="right" alt="Computador VgsStudio">
+  <img src="https://raw.githubusercontent.com/VgsStudio/VgsStudio/main/Pc.png" min-width="360px" max-width="360px" width="400px" align="right" alt="Computador VgsStudio">
 </a>
 
 <p align="justify"> 
-  Meu nome é Vitor Soller, estudante de <strong> Engenharia da Computação </strong> no <strong> Instituto Mauá de Tecnologia</strong>. Gosto de conhecer um pouco de tudo, estudei Data Science no meio de 2021 e, no começo de 2022, juntamente com um grupo acadêmico que eu faço parte na faculdade, aprendi <strong>ReactJS</strong>  e fiz alguns projetos. Já no meio de 2022, aprendi <strong>Dart e Flutter</strong> para fazer um projeto para um <a href="https://github.com/VgsStudio/CaronApp_front" target="_blank">Hackathon</a> do mesmo grupo. No fim de 2022, comecei me aprofundar mais em backend com <strong>Python</strong> e também computação em nuvem com <strong>AWS</strong>. Em 2023 me aventurei ainda mais em infraestrutura Cloud, estudando juntamente com princípios de <strong>Devops</strong> além de sistemas de <strong>CI/CD</strong> como <strong>Github Actions</strong> .
+  Meu nome é Vitor Soller, formado em <strong> Engenharia da Computação </strong> pelo <strong> Instituto Mauá de Tecnologia</strong>. Atualmente atuo como <strong>Analista de Projetos</strong>, com foco na gestão de clientes e no alinhamento entre negócio e times técnicos.
+
+  No dia a dia, sou responsável por garantir a evolução dos projetos, organizando demandas, acompanhando entregas e facilitando a comunicação entre stakeholders e equipes de tecnologia.
+
+  Tenho uma forte base técnica em <strong>AWS</strong>, participando de discussões de arquitetura, análise de soluções e decisões técnicas, além de desenvolver automações com <strong>Python</strong> e serviços como <strong>Lambda e S3</strong> para otimizar processos e aumentar a eficiência dos times.
+
+  Também acompanho e aplico tendências como <strong>AI-assisted development</strong>, <strong>vibe coding</strong> e uso de ferramentas modernas como <strong>Kiro</strong>, sempre buscando acelerar entregas e aumentar a produtividade no desenvolvimento e na gestão.
+
+  Gosto de atuar na interseção entre <strong>gestão e tecnologia</strong>, traduzindo necessidades de negócio em soluções viáveis e bem estruturadas em cloud. 🚀
 </p>
 
 <p align="left">
  🏆 Certificações:
-         <ul style="list-style-type: circle">
-                  <li>AWS Cloud Practioner (2024) ☁</li>
-                  <li>AWS Solutions Architect – Associate (Carregando... 🔨🛠)</li>
-         </ul>
+ <ul style="list-style-type: circle">
+   <li>AWS Certified Cloud Practitioner (2024) ☁️</li>
+   <li>AWS Certified Solutions Architect – Associate (2025) 🏗️</li>
+   <li>AWS Knowledge: Amazon Braket (2025) ⚛️</li>
+   <li>AWS Certified AI Practitioner (2026) 🤖</li>
+   <li>AWS Certified Developer – Associate (2026) 💻</li>
+ </ul>
 </p>
 
 <p align="left">
- 🍂 Habilidades: <strong> Python, HTML, AWS, CSS, ReactJS, Dart, Flutter  </strong>
+ 🍂 Habilidades: 
+ <strong>
+   AWS, Gestão de Projetos, Arquitetura de Soluções (conceitual), Python, Serverless, APIs REST, CI/CD, CloudFormation, GitHub Actions, Microservices, AI-assisted Development, Vibe Coding
+ </strong>
 </p>
 
 <p align="left">
-  🦊 Idiomas: <strong> Português, Inglês e Alemão </strong>
+ 🏆 Ferramentas: 
+ <strong>
+   AWS Console, ClickUp, Jira, Confluence, GitHub, VSCode, Jupyter Notebook, Git Bash, Figma, Kiro
+ </strong>
 </p>
 
 <p align="left">
- 🏆 Ferramentas: <strong>VSCode, Pycharm, Jupyter Notebook, Trello, GitHub, Git Bash, Figma</strong>
+ 🦊 Idiomas: <strong> Português, Inglês (Avançado) e Alemão (Básico) </strong>
 </p>
 
 <p align="left">
-  🌋 Sou extremamente simpático, pode me chamar tanto para trabalhos como para uma conversa: ⤵️
+  🌋 Curto resolver problemas e conectar pessoas, tecnologia e negócio para tirar projetos do papel. Pode me chamar tanto para projetos quanto para uma boa conversa: ⤵️
 </p>
 
 <p align="left"> 
@@ -39,4 +56,4 @@
 
 <hr>
 <h2> 🔥 Minha conta GitHub: <br> </h2>
-  <img align=center src="https://github-readme-stats.vercel.app/api?username=VgsStudio&show_icons=true&theme=great-gatsby">
+<img align=center src="https://github-readme-stats.vercel.app/api?username=VgsStudio&show_icons=true&theme=great-gatsby">
