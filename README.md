@@ -55,5 +55,3 @@
 </p> 
 
 <hr>
-<h2> 🔥 Minha conta GitHub: <br> </h2>
-<img align=center src="https://github-readme-stats.vercel.app/api?username=VgsStudio&show_icons=true&theme=great-gatsby">
