@@ -19,11 +19,12 @@
 <p align="left">
  🏆 Certificações:
  <ul style="list-style-type: circle">
-   <li>AWS Certified Cloud Practitioner (2024) ☁️</li>
+   <li>AWS Certified Solutions Architect – Professional (2026) 🔨</li>
+   <li>AWS Certified Developer – Associate (2026) 💻</li>
+   <li>AWS Certified AI Practitioner (2026) 🤖</li>
    <li>AWS Certified Solutions Architect – Associate (2025) 🏗️</li>
    <li>AWS Knowledge: Amazon Braket (2025) ⚛️</li>
-   <li>AWS Certified AI Practitioner (2026) 🤖</li>
-   <li>AWS Certified Developer – Associate (2026) 💻</li>
+   <li>AWS Certified Cloud Practitioner (2024) ☁️</li>
  </ul>
 </p>
 
