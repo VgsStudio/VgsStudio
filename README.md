@@ -19,7 +19,10 @@
 <p align="left">
  🏆 Certificações:
  <ul style="list-style-type: circle">
+
+   <li>AWS Certified CloudOps Engineer – Associate (2026) ⚙️</li>
    <li>AWS Certified Solutions Architect – Professional (2026) 🔨</li>
+   <li>AWS Certified Security – Specialty (2026) 🔒</li>
    <li>AWS Certified Developer – Associate (2026) 💻</li>
    <li>AWS Certified AI Practitioner (2026) 🤖</li>
    <li>AWS Certified Solutions Architect – Associate (2025) 🏗️</li>
@@ -31,14 +34,14 @@
 <p align="left">
  🍂 Habilidades: 
  <strong>
-   AWS, Gestão de Projetos, Arquitetura de Soluções (conceitual), Python, Serverless, APIs REST, CI/CD, CloudFormation, GitHub Actions, Microservices, AI-assisted Development, Vibe Coding
+   AWS, Gestão de Projetos, Arquitetura de Soluções, Python, Serverless, APIs REST, CI/CD, CloudFormation, GitHub Actions, Microservices, AI-assisted Development, Vibe Coding, 
  </strong>
 </p>
 
 <p align="left">
  🏆 Ferramentas: 
  <strong>
-   AWS Console, ClickUp, Jira, Confluence, GitHub, VSCode, Jupyter Notebook, Git Bash, Figma, Kiro
+   AWS Console, Claude, Kiro, Terraform, ClickUp, Jira, Confluence, GitHub, VSCode, Jupyter Notebook, Git Bash, Figma
  </strong>
 </p>
 
