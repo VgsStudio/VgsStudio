@@ -5,7 +5,7 @@
 </a>
 
 <p align="justify"> 
-  Meu nome é Vitor Soller, formado em <strong> Engenharia da Computação </strong> pelo <strong> Instituto Mauá de Tecnologia</strong>. Atualmente atuo como <strong>Analista de Projetos</strong>, com foco na gestão de clientes e no alinhamento entre negócio e times técnicos.
+  Meu nome é Vitor Soller, formado em <strong> Engenharia da Computação </strong> pelo <strong> Instituto Mauá de Tecnologia</strong>. Atualmente atuo como <strong>Cloud Architect Engineer</strong>, com foco em arquitetura de soluções AWS.
 
   No dia a dia, sou responsável por garantir a evolução dos projetos, organizando demandas, acompanhando entregas e facilitando a comunicação entre stakeholders e equipes de tecnologia.
 
